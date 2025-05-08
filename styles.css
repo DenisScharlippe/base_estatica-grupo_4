@@ -30,6 +30,7 @@ nav ul li {
     margin-right: 20px;
 }
 
+
 nav ul li a {
     color: white;
     text-decoration: none;
@@ -55,6 +56,10 @@ footer {
     width: 100%;
     text-align: center;
     background-color: #3F51B5;
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .navButton {
@@ -62,7 +67,7 @@ footer {
     color: white;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
+    display: inline-bock;
     font-size: 16px;
     margin: 4px 10px;
     cursor: pointer;
