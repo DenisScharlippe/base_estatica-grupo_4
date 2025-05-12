@@ -77,3 +77,17 @@ footer {
     font-size: 25px;
     font-weight: bolder;
 }
+
+table {
+    margin: 0 auto;
+}
+
+section h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
